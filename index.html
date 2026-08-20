@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>가격관측소</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic',sans-serif;
+     background:#FAF8F3;color:#1B2A4A;-webkit-font-smoothing:antialiased}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px 80px}
+
+/* ── 헤더 ── */
+header{padding:48px 0 28px}
+.brand{font-size:13px;color:#A8AFBD;letter-spacing:.3px}
+h1{font-size:30px;font-weight:800;margin-top:8px;letter-spacing:-.5px}
+.lede{margin-top:14px;font-size:16px;line-height:1.65;color:#5A6478}
+.lede b{color:#D94F35;font-weight:700}
+.asof{margin-top:12px;font-size:12.5px;color:#A8AFBD}
+
+/* ── 검색 ── */
+.searchbox{position:sticky;top:0;z-index:9;background:#FAF8F3;
+           padding:14px 0 12px;border-bottom:1px solid #E2DDD3}
+#q{width:100%;font-size:16px;padding:15px 18px;border:2px solid #1B2A4A;
+   border-radius:12px;font-family:inherit;background:#fff}
+#q:focus{outline:none;border-color:#D94F35}
+.hint{margin-top:8px;font-size:12px;color:#A8AFBD}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:9px}
+.chip{font-size:12px;padding:6px 12px;border:1px solid #DDD8CE;background:#fff;
+      border-radius:99px;cursor:pointer;color:#5A6478}
+.chip:hover{background:#EFEBE2}
+.chip.on{background:#1B2A4A;color:#FAF8F3;border-color:#1B2A4A}
+
+/* ── 대분류 탭 ── */
+.tabs{display:flex;gap:7px;overflow-x:auto;margin-top:18px;padding-bottom:4px;
+      scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;font-size:13.5px;font-weight:600;padding:10px 16px;border:1px solid #DDD8CE;
+     background:#fff;border-radius:99px;cursor:pointer;color:#5A6478;
+     font-family:inherit;white-space:nowrap}
+.tab:hover{background:#EFEBE2}
+.tab.on{background:#1B2A4A;color:#FAF8F3;border-color:#1B2A4A}
+.tab .n{font-size:11.5px;opacity:.65;margin-left:5px}
+.viewbar{display:flex;justify-content:space-between;align-items:center;
+         margin-top:16px;padding-bottom:10px;border-bottom:2px solid #1B2A4A}
+.vcount{font-size:13px;color:#8A93A5}
+.vtoggle{display:flex;gap:0;border:1px solid #DDD8CE;border-radius:8px;overflow:hidden}
+.vtoggle button{font-size:12.5px;padding:7px 14px;border:0;background:#fff;
+                cursor:pointer;font-family:inherit;color:#8A93A5}
+.vtoggle button.on{background:#1B2A4A;color:#FAF8F3}
+.tabdesc{margin-top:12px;font-size:13.5px;color:#8A93A5;line-height:1.6}
+
+/* ── 섹션 ── */
+section{margin-top:38px}
+.shead{display:flex;justify-content:space-between;align-items:baseline;
+       padding-bottom:10px;border-bottom:2px solid #1B2A4A}
+.shead h2{font-size:19px;font-weight:800}
+.shead span{font-size:13px;color:#A8AFBD}
+.sdesc{margin-top:10px;font-size:13.5px;color:#8A93A5;line-height:1.6}
+
+/* ── 행 ── */
+.row{display:flex;align-items:center;gap:14px;padding:14px 4px;
+     border-bottom:1px solid #EFEBE2;text-decoration:none;color:inherit}
+.row:hover{background:#F3EFE7}
+.th{width:52px;height:52px;flex:none;background:#fff;border-radius:10px;
+    overflow:hidden;border:1px solid #EFEBE2}
+.th img{width:100%;height:100%;object-fit:contain}
+.info{flex:1;min-width:0}
+.nm{font-size:14px;font-weight:600;line-height:1.35;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.sub{font-size:12px;color:#8A93A5;margin-top:4px}
+.spark{width:88px;flex:none}
+.pr{width:96px;flex:none;text-align:right}
+.pv{font-size:15px;font-weight:800}
+.dv{font-size:12px;font-weight:700;margin-top:3px}
+.dn{color:#D94F35}.up{color:#3D6BB3}.eq{color:#A8AFBD}
+.unitp{font-size:11px;color:#A8AFBD;margin-top:2px}
+
+/* ── 관측 카드 (앱/소셜 카드와 같은 디자인 언어) ── */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));
+       gap:12px;margin-top:16px}
+.card{background:#fff;border:1px solid #EFEBE2;border-radius:14px;padding:16px;
+      text-decoration:none;color:inherit;display:block}
+.card:hover{border-color:#1B2A4A}
+.ctop{display:flex;gap:12px}
+.cth{width:64px;height:64px;flex:none;background:#FAF8F3;border-radius:10px;
+     overflow:hidden;border:1px solid #EFEBE2}
+.cth img{width:100%;height:100%;object-fit:contain}
+.cmid{flex:1;min-width:0}
+.cnm{font-size:13.5px;font-weight:600;line-height:1.35;
+     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cprice{display:flex;align-items:baseline;gap:8px;margin-top:6px}
+.cprice .p{font-size:20px;font-weight:800;letter-spacing:-.5px}
+.cprice .u{font-size:12px;font-weight:700;color:#D94F35}
+.ctag{display:inline-block;margin-top:8px;font-size:11.5px;font-weight:700;
+      padding:4px 10px;border-radius:99px}
+.t-low{background:#FBEAE5;color:#D94F35}
+.t-high{background:#E7EEF9;color:#3D6BB3}
+.t-tie{background:#F0EDE6;color:#8A93A5}
+.t-flat{background:#F0EDE6;color:#8A93A5}
+.cgraph{margin-top:12px;padding-top:12px;border-top:1px solid #F2EFE9}
+.clog{margin-top:8px;font-size:11.5px;color:#8A93A5;line-height:1.5}
+.clog b{color:#1B2A4A;font-weight:700}
+.cfoot{margin-top:8px;font-size:11px;color:#BFC5D0}
+
+/* ── 그래프 벽 ── */
+.wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(104px,1fr));
+      gap:7px;margin-top:16px}
+.cell{background:#fff;border:1px solid #EFEBE2;border-radius:9px;padding:8px 8px 6px;
+      text-decoration:none;color:inherit;display:block}
+.cell:hover{border-color:#1B2A4A}
+.cell .cn{font-size:10px;color:#8A93A5;height:24px;overflow:hidden;line-height:1.2}
+.cell .cp{font-size:11.5px;font-weight:700;margin-top:3px}
+#more2{width:100%;margin-top:18px;padding:14px;border:1px solid #DDD8CE;background:#fff;
+      border-radius:10px;font-size:14px;font-family:inherit;cursor:pointer;color:#5A6478}
+#more2:hover{background:#EFEBE2}
+
+.empty{padding:28px 4px;color:#A8AFBD;font-size:14px}
+footer{margin-top:56px;padding-top:22px;border-top:1px solid #E2DDD3;
+       font-size:12px;color:#A8AFBD;line-height:1.75}
+@media(max-width:520px){
+  .spark{display:none} h1{font-size:25px}
+  .wall{grid-template-columns:repeat(auto-fill,minmax(92px,1fr))}
+}
+</style></head><body>
+<div class="wrap">
+
+<header>
+  <div class="brand">가격관측소 · @price.observatory</div>
+  <h1>지금 사려는 거, 지금이 쌀 때인가?</h1>
+  <div class="lede">
+    토스쇼핑 특가 상품 <b id="cnt">—</b>개의 가격을 매일 기록합니다.<br>
+    오늘 값만 보면 다 싸 보입니다. 어제까지 얼마였는지 같이 보세요.
+  </div>
+  <div class="asof" id="asof">불러오는 중…</div>
+</header>
+
+<div class="searchbox">
+  <input id="q" placeholder="찾는 물건 이름을 넣어보세요 — 예: 생수, 물티슈, 참기름">
+  <div class="chips" id="chips"></div>
+  <div class="hint" id="hint"></div>
+</div>
+
+<nav class="tabs" id="tabs"></nav>
+<div class="viewbar">
+  <div class="vcount" id="vcount"></div>
+  <div class="vtoggle">
+    <button id="v-card" class="on">카드</button>
+    <button id="v-list">목록</button>
+  </div>
+</div>
+<div id="result"></div>
+
+
+
+<footer>
+  가격은 토스쇼핑 화면 표기를 매일 수집한 것입니다. 수집 시점 기준이라 실제 판매가와 다를 수 있습니다.<br>
+  목록에 없는 날은 관측되지 않으며, 그런 구간은 기록이 비어 있습니다.<br><br>
+  이 페이지의 링크는 토스쇼핑 쉐어링크 활동의 일환으로, 링크를 통한 구매가 발생하면 일정 수수료를 지급받습니다.
+</footer>
+</div>
+
+<script>
+const SRC='https://raw.githubusercontent.com/kdh0725-bit/deal-salkka-data/main/data/deals-latest.json';
+const won=n=>Number(n).toLocaleString('ko-KR');
+const $=i=>document.getElementById(i);
+let ITEMS=[], THEMES=[], activeTheme=null;
+
+const H=i=>i.priceHistory||[];
+const diff=i=>{const p=H(i);return p.length>=2?p[p.length-1].price-p[p.length-2].price:null};
+
+/* 미니 스파크라인 */
+function spark(i,w=88,h=26){
+  const p=H(i).map(x=>x.price); if(p.length<2) return '';
+  const lo=Math.min(...p),hi=Math.max(...p),rg=(hi-lo)||1;
+  const pts=p.map((v,k)=>`${(k/(p.length-1)*(w-6)+3).toFixed(1)},${(h-3-(v-lo)/rg*(h-8)).toFixed(1)}`).join(' ');
+  const last=p[p.length-1], pv=p[p.length-2];
+  const col=last<pv?'#D94F35':last>pv?'#3D6BB3':'#A8AFBD';
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+    <polyline points="${pts}" fill="none" stroke="#1B2A4A" stroke-width="1.6"
+      stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+    <circle cx="${(w-3)}" cy="${(h-3-(last-lo)/rg*(h-8)).toFixed(1)}" r="3" fill="${col}"/></svg>`;
+}
+function unitTxt(i){
+  const u=i.unitPrice; if(!u||!u.count||u.count<2||!u.perUnit) return '';
+  return `개당 ${won(u.perUnit)}원`;
+}
+/* 앱과 같은 판정 규칙 */
+function rankOf(i){
+  const h=H(i); if(h.length<2) return {k:'flat',t:'첫 관측'};
+  const t=h[h.length-1].price, past=h.slice(0,-1).map(x=>x.price);
+  const mn=Math.min(...past), mx=Math.max(...past);
+  if(t<mn) return {k:'low', t:'관측 이래 최저'};
+  if(t>mx) return {k:'high',t:'관측 이래 최고'};
+  if(t===mn&&mn!==mx) return {k:'tie', t:'최저와 동일 · 신저가 아님'};
+  if(mn===mx) return {k:'flat',t:'변동 없음'};
+  return {k:'flat',t:'관측 범위 안'};
+}
+/* 카드용 그래프 — 소셜 카드와 같은 모양, 크기만 축소 */
+function miniChart(i,w=298,h=76){
+  const h2=H(i), p=h2.map(x=>x.price); if(p.length<2) return '';
+  const lo=Math.min(...p), hi=Math.max(...p);
+  const pad=Math.max((hi-lo)*.35, hi*.02), ymin=lo-pad, ymax=hi+pad;
+  const X=k=>6+(w-12)*(k/(p.length-1));
+  const Y=v=>10+(h-26)*(ymax-v)/((ymax-ymin)||1);
+  const pts=p.map((v,k)=>`${X(k).toFixed(1)},${Y(v).toFixed(1)}`).join(' ');
+  const dots=p.slice(0,-1).map((v,k)=>
+    `<circle cx="${X(k).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="2.4"/>`).join('');
+  const li=p.length-1;
+  return `<svg width="100%" viewBox="0 0 ${w} ${h}">
+    <line x1="6" y1="${Y(hi).toFixed(1)}" x2="${w-6}" y2="${Y(hi).toFixed(1)}"
+      stroke="#E8E3D9" stroke-width="1" stroke-dasharray="4 4"/>
+    <line x1="6" y1="${Y(lo).toFixed(1)}" x2="${w-6}" y2="${Y(lo).toFixed(1)}"
+      stroke="#E8E3D9" stroke-width="1" stroke-dasharray="4 4"/>
+    <polyline points="${pts}" fill="none" stroke="#1B2A4A" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#1B2A4A">${dots}</g>
+    <circle cx="${X(li).toFixed(1)}" cy="${Y(p[li]).toFixed(1)}" r="5" fill="#D94F35"/>
+    <text x="6" y="${h-3}" font-size="9.5" fill="#BFC5D0">${h2[0].date.slice(5).replace('-','/')}</text>
+    <text x="${w-6}" y="${h-3}" font-size="9.5" fill="#BFC5D0" text-anchor="end">${h2[li].date.slice(5).replace('-','/')}</text>
+  </svg>`;
+}
+function cardHTML(i){
+  const r=rankOf(i), d=diff(i), n=H(i).length, u=unitTxt(i);
+  const prev=n>=2?H(i)[n-2].date.slice(5).replace('-','/'):null;
+  const dtxt = d===null ? '비교할 이전 기록 없음'
+             : d<0 ? `직전 관측(${prev})보다 ${won(-d)}원 내림`
+             : d>0 ? `직전 관측(${prev})보다 ${won(d)}원 오름`
+             : `직전 관측(${prev})과 같은 값`;
+  return `<a class="card" href="${i.link}" target="_blank" rel="nofollow noopener">
+    <div class="ctop">
+      <div class="cth"><img src="${i.thumb}" loading="lazy" alt=""></div>
+      <div class="cmid">
+        <div class="cnm">${i.name}</div>
+        <div class="cprice"><span class="p">${won(i.price)}원</span>
+          ${u?`<span class="u">${u}</span>`:''}</div>
+        <span class="ctag t-${r.k}">${r.t}</span>
+      </div></div>
+    <div class="cgraph">${miniChart(i)}</div>
+    <div class="clog"><b>${dtxt}</b> · ${n}회 관측</div>
+    <div class="cfoot">토스쇼핑 표기 기준</div></a>`;
+}
+function rowHTML(i){
+  const d=diff(i), n=H(i).length;
+  const cls=d===null?'eq':d<0?'dn':d>0?'up':'eq';
+  const txt=d===null?'첫 관측':d<0?`▼ ${won(-d)}`:d>0?`▲ ${won(d)}`:'변동 없음';
+  return `<a class="row" href="${i.link}" target="_blank" rel="nofollow noopener">
+    <div class="th"><img src="${i.thumb}" loading="lazy" alt=""></div>
+    <div class="info"><div class="nm">${i.name}</div>
+      <div class="sub">${n}회 관측 · ${H(i)[0].date.slice(5).replace('-','/')}부터</div></div>
+    <div class="spark">${spark(i)}</div>
+    <div class="pr"><div class="pv">${won(i.price)}원</div>
+      <div class="dv ${cls}">${txt}</div>
+      <div class="unitp">${unitTxt(i)}</div></div></a>`;
+}
+
+const disc=i=>i.original&&i.original>i.price?Math.round((1-i.price/i.original)*100):null;
+const TABS=[
+ {id:'down', label:'많이 내린 순',
+  desc:'어제 관측값보다 낮아진 상품입니다. 내린 금액이 큰 순서.',
+  f:i=>diff(i)!==null&&diff(i)<0, s:(a,b)=>diff(a)-diff(b)},
+ {id:'low', label:'관측 이래 최저',
+  desc:'기록을 시작한 뒤 오늘이 가장 낮은 상품입니다.',
+  f:i=>rankOf(i).k==='low', s:(a,b)=>H(b).length-H(a).length},
+ {id:'disc', label:'할인율 높은 순',
+  desc:'토스쇼핑 표기 할인율 기준입니다. 정가는 판매자가 적은 값이라 참고만 하세요.',
+  f:i=>disc(i)!=null, s:(a,b)=>disc(b)-disc(a)},
+ {id:'new', label:'오늘 처음 등장',
+  desc:'오늘 처음 특가 목록에 오른 상품입니다. 비교할 어제 기록이 없습니다.',
+  f:i=>H(i).length===1, s:(a,b)=>(b.reviews||0)-(a.reviews||0)},
+ {id:'end', label:'오늘 마감',
+  desc:'종료 시각이 정해진 상품입니다.',
+  f:i=>!!i.endAt, s:(a,b)=>(a.endAt||'').localeCompare(b.endAt||'')},
+ {id:'up', label:'값이 오른 것',
+  desc:'특가 목록에 있지만 어제보다 비싸진 상품입니다. 보통은 안 보여주는 화면이라, 여기 있습니다.',
+  f:i=>diff(i)!==null&&diff(i)>0, s:(a,b)=>diff(b)-diff(a)},
+ {id:'all', label:'전체 기록',
+  desc:'기록이 2회 이상 쌓인 상품 전부입니다.',
+  f:i=>H(i).length>=2, s:(a,b)=>H(b).length-H(a).length}
+];
+let activeTab='down', view='card', shown=24;
+
+function poolOf(){
+  const t=TABS.find(x=>x.id===activeTab);
+  let a=ITEMS.filter(t.f);
+  if(activeTheme) a=a.filter(i=>(i.themes||[]).includes(activeTheme));
+  return a.sort(t.s);
+}
+function renderTabs(){
+  $('tabs').innerHTML=TABS.map(t=>{
+    const n=ITEMS.filter(t.f).length;
+    return `<button class="tab${t.id===activeTab?' on':''}" data-id="${t.id}">${t.label}<span class="n">${n}</span></button>`;
+  }).join('');
+  [...document.querySelectorAll('.tab')].forEach(b=>b.onclick=()=>{
+    activeTab=b.dataset.id; shown=24; renderTabs(); renderMain();
+  });
+}
+function renderMain(){
+  const t=TABS.find(x=>x.id===activeTab), pool=poolOf();
+  $('vcount').textContent=`${won(pool.length)}건`+(activeTheme?' · 테마 필터 적용 중':'');
+  const slice=pool.slice(0,shown);
+  const body=slice.length
+    ? (view==='card'
+        ? `<div class="cards">${slice.map(cardHTML).join('')}</div>`
+        : slice.map(rowHTML).join(''))
+    : '<div class="empty">해당하는 상품이 없습니다.</div>';
+  $('result').innerHTML=`<div class="tabdesc">${t.desc}</div>${body}`
+    + (pool.length>shown?'<button id="more2">더 보기</button>':'');
+  const m=$('more2'); if(m) m.onclick=()=>{shown+=24;renderMain()};
+}
+function search(){
+  const kw=$('q').value.trim();
+  if(!kw){ $('hint').textContent='';
+    $('tabs').style.display='';
+    document.querySelector('.viewbar').style.display='';
+    renderMain(); return; }
+  $('tabs').style.display='none';
+  document.querySelector('.viewbar').style.display='none';
+  const hit=ITEMS.filter(i=>i.name.includes(kw)).sort((a,b)=>H(b).length-H(a).length);
+  $('hint').textContent=`"${kw}" ${hit.length}건`;
+  $('result').innerHTML=hit.length
+    ? `<div class="tabdesc">"${kw}" 검색 결과 ${hit.length}건 · 기록이 많은 순</div>
+       ${view==='card'?`<div class="cards">${hit.slice(0,24).map(cardHTML).join('')}</div>`
+                      :hit.slice(0,40).map(rowHTML).join('')}`
+    : `<div class="empty">"${kw}"에 해당하는 관측 기록이 없습니다.<br>
+       특가 목록에 오른 적이 없거나, 다른 이름으로 등록된 상품일 수 있습니다.</div>`;
+}
+fetch(SRC).then(r=>r.json()).then(d=>{
+  ITEMS=d.items; THEMES=d.themes||[];
+  $('cnt').textContent=won(d.items.length);
+  $('asof').textContent=`${d.date} 기준 · 매일 새벽 갱신`;
+  $('chips').innerHTML=THEMES.map(t=>
+    `<span class="chip" data-t="${t.id}">${t.label} ${t.count}</span>`).join('');
+  [...document.querySelectorAll('.chip')].forEach(c=>c.onclick=()=>{
+    activeTheme=activeTheme===c.dataset.t?null:c.dataset.t;
+    [...document.querySelectorAll('.chip')].forEach(x=>
+      x.classList.toggle('on',x.dataset.t===activeTheme));
+    shown=24; renderMain();
+  });
+  renderTabs(); renderMain();
+}).catch(e=>$('asof').textContent='데이터를 불러오지 못했습니다');
+
+$('q').addEventListener('input',search);
+$('v-card').onclick=()=>{view='card';$('v-card').classList.add('on');
+  $('v-list').classList.remove('on'); $('q').value?search():renderMain()};
+$('v-list').onclick=()=>{view='list';$('v-list').classList.add('on');
+  $('v-card').classList.remove('on'); $('q').value?search():renderMain()};
+</script></body></html>
