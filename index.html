@@ -169,28 +169,60 @@ const diff=i=>{const p=H(i);return p.length>=2?p[p.length-1].price-p[p.length-2]
 
 /* 미니 스파크라인 */
 function spark(i,w=88,h=26){
-  const p=H(i).map(x=>x.price); if(p.length<2) return '';
+  const hh=H(i), p=hh.map(x=>x.price); if(p.length<2) return '';
   const lo=Math.min(...p),hi=Math.max(...p),rg=(hi-lo)||1;
-  const pts=p.map((v,k)=>`${(k/(p.length-1)*(w-6)+3).toFixed(1)},${(h-3-(v-lo)/rg*(h-8)).toFixed(1)}`).join(' ');
+  /* 큰 그래프와 같은 규칙 — 날짜 비례 x축, 관측이 끊긴 구간은 선도 끊는다 */
+  const span=Math.max(1,dayGap(hh[0].date,hh[hh.length-1].date));
+  const X=k=>(dayGap(hh[0].date,hh[k].date)/span*(w-6)+3);
+  const Y=v=>(h-3-(v-lo)/rg*(h-8));
+  const sg=segsOf(hh);
+  const solid=sg.filter(g=>g.length>1).map(g=>
+    `<polyline points="${g.map(k=>`${X(k).toFixed(1)},${Y(p[k]).toFixed(1)}`).join(' ')}"`+
+    ` fill="none" stroke="#1B2A4A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>`
+  ).join('');
+  const gapline=sg.slice(1).map((g,n)=>{
+    const a=sg[n][sg[n].length-1], b=g[0];
+    return `<line x1="${X(a).toFixed(1)}" y1="${Y(p[a]).toFixed(1)}" x2="${X(b).toFixed(1)}" y2="${Y(p[b]).toFixed(1)}"`+
+      ` stroke="#1B2A4A" stroke-opacity="0.28" stroke-width="1.4" stroke-dasharray="2.5 3"/>`;
+  }).join('');
   const last=p[p.length-1], pv=p[p.length-2];
   const col=last<pv?'#D94F35':last>pv?'#3D6BB3':'#A8AFBD';
   return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
-    <polyline points="${pts}" fill="none" stroke="#1B2A4A" stroke-width="1.6"
-      stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+    ${solid}${gapline}
     <circle cx="${(w-3)}" cy="${(h-3-(last-lo)/rg*(h-8)).toFixed(1)}" r="3" fill="${col}"/></svg>`;
 }
 function unitTxt(i){
   const u=i.unitPrice; if(!u||!u.count||u.count<2||!u.perUnit) return '';
   return `개당 ${won(u.perUnit)}원`;
 }
-/* 앱과 같은 판정 규칙 */
+/* 앱·소셜카드와 같은 판정 규칙
+   ★ 목록에서 빠졌다 돌아온 경우를 최저/최고보다 '먼저' 가른다.
+     그 사이 값 변화는 연속 하락이 아니라 '다른 값으로 다시 나타난 것'이다.
+   ★ '관측 이래'라고 쓰지 않는다 — 2회 관측인데 그렇게 쓰면 실제보다 큰 사건처럼 들린다.
+     앱이 '14일 중 최저'라고 표본을 밝히듯, 여기서도 회수를 함께 적는다. */
+const dayGap=(a,b)=>Math.round((new Date(b)-new Date(a))/864e5);
+function segsOf(h){
+  const s=[[0]];
+  for(let k=1;k<h.length;k++){
+    if(dayGap(h[k-1].date,h[k].date)>1) s.push([k]); else s[s.length-1].push(k);
+  }
+  return s;
+}
 function rankOf(i){
   const h=H(i); if(h.length<2) return {k:'flat',t:'첫 관측'};
   const t=h[h.length-1].price, past=h.slice(0,-1).map(x=>x.price);
   const mn=Math.min(...past), mx=Math.max(...past);
-  if(t<mn) return {k:'low', t:'관측 이래 최저'};
-  if(t>mx) return {k:'high',t:'관측 이래 최고'};
-  if(t===mn&&mn!==mx) return {k:'tie', t:'최저와 동일 · 신저가 아님'};
+  const sg=segsOf(h);
+  if(sg.length>=2 && sg[sg.length-1][0]===h.length-1){
+    const b=h[sg[sg.length-2][sg[sg.length-2].length-1]], a=h[h.length-1];
+    const away=dayGap(b.date,a.date)-1;
+    if(a.price<b.price) return {k:'back_down',t:`${away}일 만에 다시 등장 · 더 쌈`};
+    if(a.price>b.price) return {k:'back_up',  t:`${away}일 만에 다시 등장 · 더 비쌈`};
+    return {k:'back_same',t:`${away}일 만에 같은 값으로 다시 등장`};
+  }
+  if(t<mn) return {k:'low', t:`${h.length}회 관측 중 최저`};
+  if(t>mx) return {k:'high',t:`${h.length}회 관측 중 최고`};
+  if(t===mn&&mn!==mx) return {k:'tie', t:`${h.length}회 관측 최저와 동일 · 신저가 아님`};
   if(mn===mx) return {k:'flat',t:'변동 없음'};
   return {k:'flat',t:'관측 범위 안'};
 }
@@ -199,9 +231,23 @@ function miniChart(i,w=298,h=76){
   const h2=H(i), p=h2.map(x=>x.price); if(p.length<2) return '';
   const lo=Math.min(...p), hi=Math.max(...p);
   const pad=Math.max((hi-lo)*.35, hi*.02), ymin=lo-pad, ymax=hi+pad;
-  const X=k=>6+(w-12)*(k/(p.length-1));
+  /* ★ x 축은 인덱스가 아니라 실제 날짜다.
+       등간격으로 그리면 9일 공백이 안 보여 "꾸준히 내려온 것"처럼 읽힌다. */
+  const span=Math.max(1,dayGap(h2[0].date,h2[h2.length-1].date));
+  const X=k=>6+(w-12)*(dayGap(h2[0].date,h2[k].date)/span);
   const Y=v=>10+(h-26)*(ymax-v)/((ymax-ymin)||1);
-  const pts=p.map((v,k)=>`${X(k).toFixed(1)},${Y(v).toFixed(1)}`).join(' ');
+  /* ★ 하루 넘게 건너뛴 곳에서 선을 끊고, 그 자리는 점선으로 잇는다 */
+  const sg=segsOf(h2);
+  const solid=sg.filter(g=>g.length>1).map(g=>
+    `<polyline points="${g.map(k=>`${X(k).toFixed(1)},${Y(p[k]).toFixed(1)}`).join(' ')}"`+
+    ` fill="none" stroke="#1B2A4A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>`
+  ).join('');
+  const gapline=sg.slice(1).map((g,n)=>{
+    const a=sg[n][sg[n].length-1], b=g[0];
+    return `<line x1="${X(a).toFixed(1)}" y1="${Y(p[a]).toFixed(1)}"`+
+      ` x2="${X(b).toFixed(1)}" y2="${Y(p[b]).toFixed(1)}"`+
+      ` stroke="#1B2A4A" stroke-opacity="0.32" stroke-width="1.8" stroke-dasharray="4 5" stroke-linecap="round"/>`;
+  }).join('');
   const dots=p.slice(0,-1).map((v,k)=>
     `<circle cx="${X(k).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="2.4"/>`).join('');
   const li=p.length-1;
@@ -210,8 +256,7 @@ function miniChart(i,w=298,h=76){
       stroke="#E8E3D9" stroke-width="1" stroke-dasharray="4 4"/>
     <line x1="6" y1="${Y(lo).toFixed(1)}" x2="${w-6}" y2="${Y(lo).toFixed(1)}"
       stroke="#E8E3D9" stroke-width="1" stroke-dasharray="4 4"/>
-    <polyline points="${pts}" fill="none" stroke="#1B2A4A" stroke-width="2.4"
-      stroke-linecap="round" stroke-linejoin="round"/>
+    ${solid}${gapline}
     <g fill="#1B2A4A">${dots}</g>
     <circle cx="${X(li).toFixed(1)}" cy="${Y(p[li]).toFixed(1)}" r="5" fill="#D94F35"/>
     <text x="6" y="${h-3}" font-size="9.5" fill="#BFC5D0">${h2[0].date.slice(5).replace('-','/')}</text>
@@ -252,23 +297,18 @@ function rowHTML(i){
       <div class="unitp">${unitTxt(i)}</div></div></a>`;
 }
 
-const disc=i=>i.original&&i.original>i.price?Math.round((1-i.price/i.original)*100):null;
+/* ★ 버림이다. 61.4%를 62%로 올리면 표기가 실제보다 높아진다 — 앱 format.discountOf 와 동일 */
+const disc=i=>i.original&&i.original>i.price?Math.floor((1-i.price/i.original)*100):null;
 const TABS=[
  {id:'down', label:'많이 내린 순',
-  desc:'어제 관측값보다 낮아진 상품입니다. 내린 금액이 큰 순서.',
+  desc:'직전 관측값보다 낮아진 상품입니다. 내린 금액이 큰 순서. 목록에서 빠졌다 돌아온 상품은 그 사이 값을 알 수 없어 배지로 따로 표시합니다.',
   f:i=>diff(i)!==null&&diff(i)<0, s:(a,b)=>diff(a)-diff(b)},
- {id:'low', label:'관측 이래 최저',
-  desc:'기록을 시작한 뒤 오늘이 가장 낮은 상품입니다.',
+ {id:'low', label:'기록 중 최저',
+  desc:'적어둔 값 중 오늘이 가장 낮은 상품입니다. 기록 회수가 많을수록 믿을 만합니다.',
   f:i=>rankOf(i).k==='low', s:(a,b)=>H(b).length-H(a).length},
  {id:'disc', label:'할인율 높은 순',
   desc:'토스쇼핑 표기 할인율 기준입니다. 정가는 판매자가 적은 값이라 참고만 하세요.',
   f:i=>disc(i)!=null, s:(a,b)=>disc(b)-disc(a)},
- {id:'new', label:'오늘 처음 등장',
-  desc:'오늘 처음 특가 목록에 오른 상품입니다. 비교할 어제 기록이 없습니다.',
-  f:i=>H(i).length===1, s:(a,b)=>(b.reviews||0)-(a.reviews||0)},
- {id:'end', label:'오늘 마감',
-  desc:'종료 시각이 정해진 상품입니다.',
-  f:i=>!!i.endAt, s:(a,b)=>(a.endAt||'').localeCompare(b.endAt||'')},
  {id:'up', label:'값이 오른 것',
   desc:'특가 목록에 있지만 어제보다 비싸진 상품입니다. 보통은 안 보여주는 화면이라, 여기 있습니다.',
   f:i=>diff(i)!==null&&diff(i)>0, s:(a,b)=>diff(b)-diff(a)},
@@ -276,12 +316,18 @@ const TABS=[
   desc:'기록이 2회 이상 쌓인 상품 전부입니다.',
   f:i=>H(i).length>=2, s:(a,b)=>H(b).length-H(a).length}
 ];
+/* ★ 탭을 5개로 줄였다. 7개는 모바일에서 뒤쪽이 가로 스크롤 밖으로 밀려
+     '값이 오른 것'처럼 우리 정체성을 보여주는 화면을 아무도 못 본다.
+   ★ 뺀 둘은 다른 곳에 살아 있다:
+     · '오늘 처음 등장' → 카드 배지('첫 관측')로 보인다
+     · '오늘 마감' → 하루특가라 당일 끝나는 게 맞지만, 우리는 하루 2회만 수집한다.
+       이미 지난 마감을 '오늘 마감'으로 보여줄 수 있어 목록 탭에서는 뺀다. */
 let activeTab='down', view='card', shown=24;
 
 function poolOf(){
   const t=TABS.find(x=>x.id===activeTab);
   let a=ITEMS.filter(t.f);
-  if(activeTheme) a=a.filter(i=>(i.themes||[]).includes(activeTheme));
+  if(activeTheme) a=a.filter(i=>i.categoryName===activeTheme);
   return a.sort(t.s);
 }
 function renderTabs(){
@@ -295,7 +341,7 @@ function renderTabs(){
 }
 function renderMain(){
   const t=TABS.find(x=>x.id===activeTab), pool=poolOf();
-  $('vcount').textContent=`${won(pool.length)}건`+(activeTheme?' · 테마 필터 적용 중':'');
+  $('vcount').textContent=`${won(pool.length)}건`+(activeTheme?` · ${activeTheme}만`:'');
   const slice=pool.slice(0,shown);
   const body=slice.length
     ? (view==='card'
@@ -324,7 +370,18 @@ function search(){
        특가 목록에 오른 적이 없거나, 다른 이름으로 등록된 상품일 수 있습니다.</div>`;
 }
 fetch(SRC).then(r=>r.json()).then(d=>{
-  ITEMS=d.items; THEMES=d.themes||[];
+  ITEMS=d.items;
+  /* ★ themes 필드는 쓰지 않는다 — 값이 틀렸다(앱 인수인계 함정 7).
+       실측: '뷰티'에 자석 고정클립·베개, '한 끼 해결'에 책·마우스패드,
+       '아이·반려'에 강아지 사료가 섞여 있었다.
+       앱이 분류 화면에서 쓰는 categoryName 으로 대체한다. */
+  THEMES=(()=>{
+    const m=new Map();
+    d.items.forEach(i=>{ const c=i.categoryName; if(!c) return;
+      m.set(c,(m.get(c)||0)+1); });
+    return [...m.entries()].sort((a,b)=>b[1]-a[1])
+      .map(([label,count])=>({id:label,label,count}));
+  })();
   $('cnt').textContent=won(d.items.length);
   $('asof').textContent=`${d.date} 기준 · 매일 새벽 갱신`;
   $('chips').innerHTML=THEMES.map(t=>
