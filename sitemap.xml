@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://pricelog.tulbo.tools/</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1971.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/6555.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/15575.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -34,7 +34,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/7254907.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7495157.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7495177.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/7495179.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/7495179.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7580221.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7652065.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7652079.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -47,7 +47,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/7716623.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7716625.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7717619.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/7718075.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7718081.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7718101.html</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7718107.html</loc><lastmod>2026-08-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -60,7 +59,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/7748563.html</loc><lastmod>2026-10-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7754027.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7754029.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/7754035.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/7754035.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7754041.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7787115.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/7831063.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -95,16 +94,16 @@
   <url><loc>https://pricelog.tulbo.tools/p/8474621.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8474625.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8477329.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/8603471.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/8603471.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8638671.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8638689.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8662677.html</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8704719.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8820495.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/8827629.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/8827819.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/8827819.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9029123.html</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/9030153.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/9030153.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9030157.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9032411.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9032421.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -125,7 +124,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/9238455.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9238867.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9239599.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/9259765.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9260325.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9267487.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9451901.html</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -137,6 +135,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/9628313.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9634177.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9708715.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/9794635.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9794655.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9794665.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/9796293.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -167,7 +166,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/10463011.html</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10473867.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10474971.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/10486365.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/10486365.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10486369.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10497001.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10595959.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -181,7 +180,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/10913393.html</loc><lastmod>2026-09-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10962337.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/10989079.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/10989101.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/10989101.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/11009029.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/11009039.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/11020673.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -235,7 +234,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/12833127.html</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/12833195.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/12833215.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/12833301.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/12833301.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/12833307.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/12856429.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/13017669.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -266,10 +265,9 @@
   <url><loc>https://pricelog.tulbo.tools/p/16644955.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/16698201.html</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/16707551.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/17551735.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/17757779.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/18135239.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/18190617.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/18190617.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/18222509.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/18234207.html</loc><lastmod>2026-08-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/18310747.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -294,7 +292,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/24321401.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24330829.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24338499.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/24340431.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/24340431.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24340435.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24343591.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24344639.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -305,7 +303,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/24686897.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24805693.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/24812985.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/25052305.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/25395841.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/25681589.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/25886955.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -313,6 +310,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/25934829.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/25997413.html</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/26045147.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/26045155.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/30815393.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/31021215.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/31163227.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -342,7 +340,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/35116253.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/35994605.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36100723.html</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/36117855.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/36117855.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36117861.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36410559.html</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36469633.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -352,7 +350,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/36634577.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36634585.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36634605.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/36634651.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/36634651.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36634733.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36634743.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/36840933.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -400,7 +398,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/52801865.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/54176831.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/54210779.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/54575799.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/54575799.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/56059211.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/56194621.html</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/56234657.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -526,7 +524,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/85905201.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/85921305.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/85949145.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/86073833.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/86073833.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/86166697.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/86221567.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/86243407.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -566,7 +564,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/88132139.html</loc><lastmod>2026-10-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/88245543.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/88276283.html</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/88283299.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/88299315.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/88300597.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/88300953.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -609,7 +606,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/90960673.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/90986347.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/90986355.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/91191893.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/91191893.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/91191899.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/91564441.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/91869733.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -781,9 +778,10 @@
   <url><loc>https://pricelog.tulbo.tools/p/109807449.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109816969.html</loc><lastmod>2026-10-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109824039.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/109824049.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109824061.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109824063.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/109827819.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/109827819.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109834949.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109843563.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109843569.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -794,7 +792,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/109875657.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/109914381.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/110224185.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/110224187.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/110224187.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/111059033.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/111183367.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/111183369.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -821,18 +819,16 @@
   <url><loc>https://pricelog.tulbo.tools/p/120005869.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/120005871.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/120064193.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/120383871.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121011379.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121099167.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121099383.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121133677.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/121591905.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121623459.html</loc><lastmod>2026-09-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/121687325.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/121687325.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121942705.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/121942707.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/122426379.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/122430153.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/122430153.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/122431101.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/122497323.html</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/122503521.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -907,7 +903,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/128185379.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128185381.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128320721.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/128320725.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/128320725.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128329925.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128330259.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128335217.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -925,7 +921,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/128468579.html</loc><lastmod>2026-08-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128469191.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128564521.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/128564523.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/128564523.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128564525.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128635827.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/128635829.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -963,7 +959,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/133290047.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/133290049.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/133290051.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/133290053.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/133290053.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/133292947.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/133292949.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/133303383.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -987,7 +983,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/134267251.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/134927735.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/135073043.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/135083067.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/135083067.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/135128963.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/135128965.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/135254585.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1008,7 +1004,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/137412117.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/137412119.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/137461931.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/137543495.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138037079.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138055615.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138069865.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1018,7 +1013,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/138267209.html</loc><lastmod>2026-08-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138267213.html</loc><lastmod>2026-08-26</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138282089.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/138282091.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/138282091.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138282093.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138286213.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138293355.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1026,7 +1021,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/138353751.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138353753.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138860733.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/138865915.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/138865915.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138865917.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138919557.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/138944891.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1094,7 +1089,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/141908727.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/141908729.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/141908731.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/141908733.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/141908733.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/141908735.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/141910603.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/141912659.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1112,7 +1107,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/142036607.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/142086949.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/142206325.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/142206333.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/142206333.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/142206337.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/142583085.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/142583087.html</loc><lastmod>2026-09-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1150,11 +1145,10 @@
   <url><loc>https://pricelog.tulbo.tools/p/143222641.html</loc><lastmod>2026-09-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143224599.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143231133.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/143622155.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/143622155.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143690049.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143880303.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143914293.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/143925595.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143925597.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/143970429.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/144002589.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1240,7 +1234,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/147975953.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/147999289.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/148001577.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/148016529.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/148022209.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/148026807.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/148036435.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1265,7 +1258,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/149254237.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/149298497.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/149323231.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/149393321.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/149393321.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/149393323.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/149393329.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/149634419.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1353,7 +1346,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/160654433.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/160654435.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/160659143.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/160659145.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/160659145.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/160659147.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/160659411.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/160734031.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1390,7 +1383,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/163124247.html</loc><lastmod>2026-08-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/163222351.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/163222353.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/163222355.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/163222355.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/163222357.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/163239455.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/163239723.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1401,7 +1394,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/164454503.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/164454505.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/164454507.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/164454509.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/164454509.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/164454511.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/164454513.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/164708979.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1431,7 +1424,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/166919981.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/166927491.html</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/166932843.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/167023795.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/167023795.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/167075309.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/167108731.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/167158421.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1525,7 +1518,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/178306439.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/178334193.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/178573643.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/178734729.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/178734729.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/178734731.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/178734733.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/178734735.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1541,7 +1534,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/181179071.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/181179091.html</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/181309285.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/181416385.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/181416385.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/181487847.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/181927265.html</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/182496453.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1578,7 +1571,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/189500689.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/189612167.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/189619577.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/189743489.html</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/189743489.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/189743491.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/189854969.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/189897121.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1599,13 +1592,13 @@
   <url><loc>https://pricelog.tulbo.tools/p/193293871.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293885.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293887.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/193293899.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/193293899.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293903.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293905.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293913.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293915.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293925.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/193293927.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/193293927.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293929.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/193293933.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/194012777.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1661,7 +1654,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/210250289.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/210397653.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/210588777.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/211873337.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/211873337.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/211965447.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/212491543.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/212569833.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1691,7 +1684,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/222694361.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/222705079.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/222933941.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/222944507.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/222944509.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/223001129.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/223001131.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1740,7 +1732,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/259403781.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/259434179.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/259436923.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/262346417.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/262346417.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/263418447.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/264042029.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/264042031.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1827,7 +1819,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/297211385.html</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/297277743.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/297480687.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/297480689.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/297480689.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/297961695.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/298935841.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/300395775.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1890,10 +1882,10 @@
   <url><loc>https://pricelog.tulbo.tools/p/332707161.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/332707163.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/334071911.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/334071913.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/334071913.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/335377417.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/335377419.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/335377421.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/335377421.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/335377423.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/335377425.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/335377427.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1919,6 +1911,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/341052591.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/341358661.html</loc><lastmod>2026-08-26</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/341385363.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/341385365.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/343509451.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/344101459.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/344101461.html</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1949,14 +1942,14 @@
   <url><loc>https://pricelog.tulbo.tools/p/359167539.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/359451653.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/359628281.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/359628283.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/359628283.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/359628285.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/361556243.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/361733587.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/361754039.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/361754041.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/362403121.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/362403123.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/362403123.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/362403125.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/362403127.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/362403129.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1977,7 +1970,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/375209873.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/375236993.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/376356123.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/377032273.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/377032273.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/377411339.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/377435835.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/378876361.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -1992,7 +1985,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/382848315.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/383064881.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/383195199.html</loc><lastmod>2026-08-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/383195201.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/383195201.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/383195203.html</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/383195205.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/383247473.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2179,7 +2172,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/561276737.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/561381949.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/561381953.html</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/561381955.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/561930305.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/561937779.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/561986179.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2195,7 +2187,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/581066609.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/581190989.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/581252211.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/582069465.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/582861967.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/588319967.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/588787309.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2212,7 +2203,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/612017185.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/612131505.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/612474239.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/612474241.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/612474241.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/612735199.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/614197333.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/614257877.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2261,7 +2252,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/664833615.html</loc><lastmod>2026-09-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/667835161.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/667835165.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/667835167.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/667835167.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/667982455.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/668232073.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/668430843.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2315,7 +2306,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/698112887.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/698623363.html</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/707063761.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/707318359.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/707318359.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/707318361.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/709201179.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/709201185.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2489,7 +2480,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/861910021.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/861913841.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/861976323.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/861976327.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/861976327.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/861976329.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/861976331.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/861976333.html</loc><lastmod>2026-10-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2516,7 +2507,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/919650583.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/920451727.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/920602249.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/920752041.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/920752041.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/920752043.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/920752045.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/922851847.html</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2534,7 +2525,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/958869257.html</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/962351127.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/962351129.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/962351131.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/962351131.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/963704139.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/964483649.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/964553637.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2542,19 +2533,19 @@
   <url><loc>https://pricelog.tulbo.tools/p/965142279.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/966315873.html</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/966317591.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/966317595.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/966317595.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/966317599.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/966919703.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/967897865.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/972483019.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/973592141.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/973592141.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/973592143.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/975791183.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/976064371.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/976681223.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/976681225.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/977060719.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/977755343.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/977755343.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/981501599.html</loc><lastmod>2026-09-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/984690425.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/984729169.html</loc><lastmod>2026-09-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2630,7 +2621,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1049211703.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1049211705.html</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1051028613.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1052496185.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1052496185.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1054244129.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1055573137.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1055821233.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2742,7 +2733,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1178740193.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1178952607.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1179275865.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1179280767.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1179280767.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1179530071.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1179896261.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1180314303.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2753,7 +2744,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1182381159.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1182381161.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1182381163.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1182381165.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1182381165.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1184228677.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1184510077.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1184517375.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2766,7 +2757,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/1189525639.html</loc><lastmod>2026-08-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1189931433.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1189999305.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1197468183.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1197676481.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1203643963.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1210943497.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2814,7 +2804,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1278132723.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1280335049.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1281180947.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1281718381.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1281718381.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1281718383.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1283793141.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1283793149.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2910,7 +2900,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1421804017.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1422171267.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1422171269.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1422546539.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1422546539.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1425462061.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1426513203.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1426513205.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2919,12 +2909,12 @@
   <url><loc>https://pricelog.tulbo.tools/p/1430030269.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1432621745.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1441662495.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1442588719.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1442588719.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1442588721.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1443644129.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1444516611.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1444839157.html</loc><lastmod>2026-09-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1445658495.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1445658495.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1451468091.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1452742653.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1454714137.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2997,7 +2987,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1523716695.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1531714183.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1534198897.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1535578563.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1535578563.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1536233691.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1536550523.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1537092937.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3046,7 +3036,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1616643409.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1616798083.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1618635205.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1619224853.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1619224853.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1619224857.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1619224863.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1619814653.html</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3103,7 +3093,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1704959899.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1708352713.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1712840737.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1712840739.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1712840739.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1712840741.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1712840743.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1713865395.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3121,7 +3111,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1731195217.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1731514327.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1731514329.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1731514331.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1731514331.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1732110681.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1733652857.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1733652859.html</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3206,7 +3196,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/1909225031.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1909236861.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1910549827.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1911103061.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1911966115.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1912238901.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1914888121.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3236,7 +3225,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/1955224911.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955224913.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955358113.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1955358115.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/1955358115.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955358121.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955358125.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955358127.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3248,7 +3237,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/1955447757.html</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1955773455.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1959757683.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/1960642367.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1960824601.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1961550371.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/1961707331.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3311,9 +3299,9 @@
   <url><loc>https://pricelog.tulbo.tools/p/2031392865.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2031937945.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2032063437.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2032063439.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2032063439.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2032063441.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2032253981.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2032253981.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2032253983.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2032253987.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2032253997.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3334,7 +3322,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2043972591.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2044325721.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2051173377.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2051173385.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2051173385.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2051691069.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2051718417.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2053522907.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3358,7 +3346,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2088183161.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2089518011.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2106226609.html</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2106669975.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2106940019.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2108892159.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2108922469.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3369,7 +3356,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2115036665.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2115656911.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2115928785.html</loc><lastmod>2026-09-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2116541191.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2116757813.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2116940023.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2118346101.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3386,7 +3372,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2127442145.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2127442149.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2130402605.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2130940955.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2130985271.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2132608885.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2133682729.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3414,7 +3399,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2146454739.html</loc><lastmod>2026-08-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2152443315.html</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2154422491.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2154937075.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2154937075.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2154937077.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2154998873.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2155029973.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3425,6 +3410,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2162919139.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2163303921.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2163534637.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2163898337.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2163898339.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2163898343.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2164114773.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3436,7 +3422,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2165198395.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2165757257.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2165913111.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2166303321.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2167489511.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2167697441.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2174546509.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3469,7 +3454,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2202963279.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2204688607.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2204688609.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2204745031.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2205947725.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2205947727.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2210422897.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3486,7 +3470,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2214185555.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2214369091.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2214384315.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2214384317.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2214384317.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2214896469.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2214972627.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2216971019.html</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3527,7 +3511,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2234825179.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2235106829.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2236329791.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2236536473.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2236536473.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2239751755.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2240025855.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2240351273.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3542,8 +3526,8 @@
   <url><loc>https://pricelog.tulbo.tools/p/2244788693.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2246718141.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2250163191.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2252011831.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2252219629.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2252011831.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2252219629.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2252219631.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2252219633.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2252219635.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3569,6 +3553,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2264909791.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2265183871.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2265248761.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2265279237.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2266845465.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2267341741.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2269327101.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3641,7 +3626,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2297122979.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2297868205.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2299608379.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2307084003.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2307084003.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2307373561.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2307373563.html</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2307402085.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3699,7 +3684,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2329209777.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2332359281.html</loc><lastmod>2026-08-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2332379689.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2332392063.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2332392063.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2332701919.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2332968943.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2332968945.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3716,11 +3701,10 @@
   <url><loc>https://pricelog.tulbo.tools/p/2336103053.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2336728661.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2336770827.html</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2337112677.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2337112677.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2337112679.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2337112681.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2337112683.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2337616645.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2337616647.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2338930751.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2339088491.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3819,7 +3803,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2386921425.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2387428119.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2388627513.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2389562077.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2389606377.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2389669005.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2390235547.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3839,19 +3822,17 @@
   <url><loc>https://pricelog.tulbo.tools/p/2393550433.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2393550435.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2393550437.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2393550441.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2393550441.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2393620079.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2393685541.html</loc><lastmod>2026-08-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394076373.html</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394096979.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394237577.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2394292983.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394314319.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394435055.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2394512077.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2396945201.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2397001603.html</loc><lastmod>2026-08-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2397001605.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2397001607.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2397865697.html</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2398866489.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3864,7 +3845,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2400686673.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2401205415.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2401738957.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2401738959.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2401738959.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2401832945.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2403043187.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2403475691.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3878,6 +3859,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2417188977.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2417514271.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2419197079.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2419580353.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2419966771.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2420216761.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2420216763.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3968,7 +3950,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2451074679.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2451254377.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2451254379.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2451417303.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2451417303.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2451417305.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2451417307.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2451417309.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -3991,7 +3973,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2459306571.html</loc><lastmod>2026-10-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2459908895.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2460265901.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2460475867.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2460475867.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2460475869.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2460475871.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2460475873.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4004,7 +3986,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2463826413.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2465043237.html</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2468054149.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2469426031.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2469988651.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2472819065.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2473417775.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4050,7 +4031,6 @@
   <url><loc>https://pricelog.tulbo.tools/p/2489849499.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2490084573.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2490202381.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2490314203.html</loc><lastmod>2026-08-22</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2490590615.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2490590617.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2490590619.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4067,7 +4047,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2495407213.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2495905999.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2496250779.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2496250781.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2496250781.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2497297533.html</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2498357547.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2498357549.html</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4114,7 +4094,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2522206531.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2522259767.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2522301435.html</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2522414845.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2522414845.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2522414849.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2522414853.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2522417019.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4196,7 +4176,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2549076539.html</loc><lastmod>2026-09-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2549299405.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2549299407.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2549299409.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2549299409.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2549299411.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2549299413.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2549388723.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4215,7 +4195,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2552288799.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2552370683.html</loc><lastmod>2026-10-23</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2552586299.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2552630229.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2552630229.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2552630231.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2552675067.html</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2552799993.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4367,7 +4347,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2599502811.html</loc><lastmod>2026-09-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2599589045.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2599589047.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2599589049.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2599589049.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2599590851.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2599642785.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2599642787.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4380,7 +4360,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2600209903.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2600209905.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2600421987.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2600421989.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2600421989.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2600930043.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2601104607.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2601104609.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4433,7 +4413,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2608924735.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2608924737.html</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2609160297.html</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2609356615.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2609356615.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2609356619.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2609408381.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2609718241.html</loc><lastmod>2026-09-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4467,7 +4447,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2620726603.html</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2620726605.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2621066197.html</loc><lastmod>2026-08-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2621363823.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2621363823.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2621363825.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2621388223.html</loc><lastmod>2026-10-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2621680229.html</loc><lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4487,7 +4467,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2622778201.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2622804985.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2622883189.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2622984815.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2622984815.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2622984817.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2622984819.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2623069663.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4502,6 +4482,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2625174313.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2625255849.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2625484915.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2625556315.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2625563261.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2625593243.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2625603915.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4678,14 +4659,14 @@
   <url><loc>https://pricelog.tulbo.tools/p/2642028097.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642038087.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642046011.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2642110105.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2642110105.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642152761.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642157521.html</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642215981.html</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642216071.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642216213.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642233827.html</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2642328995.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2642328995.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642328997.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642328999.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2642333583.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4700,7 +4681,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2642995531.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643008969.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643008971.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2643008973.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2643008973.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643014035.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643014173.html</loc><lastmod>2026-10-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643063267.html</loc><lastmod>2026-09-29</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4711,7 +4692,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2643199067.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643290021.html</loc><lastmod>2026-09-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643456721.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2643462727.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2643462727.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643465475.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643465479.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2643470575.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4760,7 +4741,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2650528785.html</loc><lastmod>2026-09-28</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2650541457.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2650710295.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2650724983.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2650724983.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2650754661.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2650759805.html</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2650773567.html</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4841,7 +4822,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2653091081.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2653091083.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2653091085.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2653093473.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2653093473.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2653093475.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2653093477.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2653137767.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4868,7 +4849,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2654072545.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654075067.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654078183.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2654078607.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2654078607.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654084507.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654093735.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654093933.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4880,9 +4861,9 @@
   <url><loc>https://pricelog.tulbo.tools/p/2654096871.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654097523.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654097525.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2654097527.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2654097527.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654097579.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2654097581.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2654097581.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654097583.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654099021.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2654099765.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -4943,7 +4924,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2657061867.html</loc><lastmod>2026-09-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2657232207.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2657238359.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2657249595.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2657249595.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2657249599.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2657273475.html</loc><lastmod>2026-10-02</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2657287169.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5024,7 +5005,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2661533983.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2661536613.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2661536615.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2661536617.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2661536617.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2661536619.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2661541871.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2661541875.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5080,7 +5061,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2666193373.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2666193375.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2666193377.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2666193379.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2666193379.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2666193381.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2666193383.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2666193385.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5107,9 +5088,10 @@
   <url><loc>https://pricelog.tulbo.tools/p/2667527153.html</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667527363.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667527367.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2667527371.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667735353.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667735355.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2667735357.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2667735357.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667735359.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2667800977.html</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2668070613.html</loc><lastmod>2026-10-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5131,7 +5113,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2669125471.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2669208191.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2670231831.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2670803957.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2670803957.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2670803959.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2670803963.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2670803965.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5159,7 +5141,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2673260599.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2673442885.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2673814601.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2674021669.html</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2674021669.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2674248907.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2674248909.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2674333531.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5181,14 +5163,14 @@
   <url><loc>https://pricelog.tulbo.tools/p/2675754815.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675756669.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675757505.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2675794721.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2675794721.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675794723.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675794725.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675810921.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675817685.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675817687.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675817689.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2675817691.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2675817691.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675818015.html</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675852977.html</loc><lastmod>2026-10-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2675855383.html</loc><lastmod>2026-10-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5213,7 +5195,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2679392499.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2679441179.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2679505261.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2679671345.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2679671345.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2679689751.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2679689753.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2679689755.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5226,7 +5208,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2680275679.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2680340085.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2680599179.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2680793343.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2680793343.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2680793347.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2680793349.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2681043229.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5239,15 +5221,17 @@
   <url><loc>https://pricelog.tulbo.tools/p/2682032089.html</loc><lastmod>2026-11-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682032091.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682032093.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2682032095.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682032097.html</loc><lastmod>2026-11-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682032101.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682056239.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2682240373.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2682240373.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682305789.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2682429897.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683298351.html</loc><lastmod>2026-11-18</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683544377.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683561355.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2683561357.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683561359.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683561361.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683561363.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5257,7 +5241,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2683677949.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683677951.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683677953.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2683677955.html</loc><lastmod>2026-11-06</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2683677955.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683787115.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683805761.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2683807537.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5290,7 +5274,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2689670965.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2689675575.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2689685197.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2689717373.html</loc><lastmod>2026-11-13</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2689717373.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2690084295.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2690088611.html</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2690146523.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5299,7 +5283,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2690969971.html</loc><lastmod>2026-11-11</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2691040093.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2691565861.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2691776473.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2691776473.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2691963057.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2692436011.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2693147723.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5346,6 +5330,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2702923061.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2703363265.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2703534341.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2703586679.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2704393243.html</loc><lastmod>2026-11-01</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2704415183.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2704997531.html</loc><lastmod>2026-11-14</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5368,7 +5353,7 @@
   <url><loc>https://pricelog.tulbo.tools/p/2715434357.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2715466465.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2716131995.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2716254685.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2716254685.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2716254687.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2716254689.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2716254953.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -5384,17 +5369,19 @@
   <url><loc>https://pricelog.tulbo.tools/p/2720169735.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2721591961.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2721919555.html</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pricelog.tulbo.tools/p/2721978367.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2721978367.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2722048921.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2722304327.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2722462611.html</loc><lastmod>2026-11-19</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2722770765.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2724074773.html</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2725822365.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2725837549.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2726487813.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2726771297.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2726935937.html</loc><lastmod>2026-11-16</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2729199819.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pricelog.tulbo.tools/p/2729892403.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2730662129.html</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://pricelog.tulbo.tools/p/2730663905.html</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
